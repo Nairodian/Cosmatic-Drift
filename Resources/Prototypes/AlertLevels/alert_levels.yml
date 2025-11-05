@@ -4,7 +4,7 @@
   levels:
     green:
       announcement: alert-level-green-announcement
-      color: Green
+      color: DarkViolet
       emergencyLightColor: LawnGreen
       shuttleTime: 600
     blue:
